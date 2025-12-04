@@ -12,4 +12,4 @@ int main() { // Função principal do programa
     cout << "A media das notas e: " << media << endl; // Exibe a média das notas
 
     return 0; // Indica que o programa terminou com sucesso
-}
+} // Fim da função principal
